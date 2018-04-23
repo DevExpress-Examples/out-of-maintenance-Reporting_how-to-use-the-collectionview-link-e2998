@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCollectionViewLinkSL", "UseCollectionViewLinkSL\UseCollectionViewLinkSL.csproj", "{ACC20032-3EC7-4E03-A591-DFFDF6CFCDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCollectionViewLinkSL.Web", "UseCollectionViewLinkSL.Web\UseCollectionViewLinkSL.Web.csproj", "{23B70082-DAD8-4E5B-825B-5D588FF8CDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC20032-3EC7-4E03-A591-DFFDF6CFCDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC20032-3EC7-4E03-A591-DFFDF6CFCDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC20032-3EC7-4E03-A591-DFFDF6CFCDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC20032-3EC7-4E03-A591-DFFDF6CFCDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B70082-DAD8-4E5B-825B-5D588FF8CDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B70082-DAD8-4E5B-825B-5D588FF8CDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B70082-DAD8-4E5B-825B-5D588FF8CDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B70082-DAD8-4E5B-825B-5D588FF8CDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
