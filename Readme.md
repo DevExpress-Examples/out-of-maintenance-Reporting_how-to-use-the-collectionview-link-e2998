@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/UseCollectionViewLinkSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseCollectionViewLinkSL/MainPage.xaml))
+* **[MainPage.xaml.cs](./CS/UseCollectionViewLinkSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/UseCollectionViewLinkSL/MainPage.xaml))**
+<!-- default file list end -->
 # How to use the CollectionView Link
 
 
