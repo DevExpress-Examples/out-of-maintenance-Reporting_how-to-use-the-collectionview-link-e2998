@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/UseCollectionViewLinkSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseCollectionViewLinkSL/MainPage.xaml))
-* **[MainPage.xaml.cs](./CS/UseCollectionViewLinkSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/UseCollectionViewLinkSL/MainPage.xaml))**
+* **[MainPage.xaml.cs](./CS/UseCollectionViewLinkSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/UseCollectionViewLinkSL/MainPage.xaml.vb))**
 * [MonthItem.cs](./CS/UseCollectionViewLinkSL/MonthItem.cs) (VB: [MonthItem.vb](./VB/UseCollectionViewLinkSL/MonthItem.vb))
 <!-- default file list end -->
 # How to use the CollectionView Link
